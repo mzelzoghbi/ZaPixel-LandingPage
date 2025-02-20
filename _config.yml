@@ -1,5 +1,5 @@
 #page title
-page_title                                :                                           # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
+page_title                                : ZaPixel                                          # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
 
 # App Info
 ios_app_id                                : 6742073049                                # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
@@ -36,9 +36,9 @@ mastodon_link                             :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : ZaPixel Wallpapers
-    description                           : ZaPixel is your ultimate wallpaper destination, offering a vast collection of free 4K and HD wallpapers to suit any style or mood. Whether you’re looking for breathtaking nature vistas, stunning abstract designs, or trendy pop culture art, ZaPixel has it all—updated daily so you can always keep your device fresh!
-    fontawesome_icon_name                 : magic
+  # - title                                 : ZaPixel Wallpapers
+    # description                           : ZaPixel is your ultimate wallpaper destination, offering a vast collection of free 4K and HD wallpapers to suit any style or mood. Whether you’re looking for breathtaking nature vistas, stunning abstract designs, or trendy pop culture art, ZaPixel has it all—updated daily so you can always keep your device fresh!
+    # fontawesome_icon_name                 : magic
     
   # - title                                 : iPhone Device Preview
   #   description                           : Preview your app in the context of an iPhone device. Five different device colors included.
